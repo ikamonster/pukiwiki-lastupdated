@@ -8,7 +8,9 @@
 
 ## インストール
 
-lastupdated.inc.php を PukiWiki の plugin ディレクトリに配置してください。
+下記GitHubページからダウンロードした lastupdated.inc.php を PukiWiki の plugin ディレクトリに配置してください。
+
+[https://github.com/ikamonster/pukiwiki-lastupdated](https://github.com/ikamonster/pukiwiki-lastupdated)
 
 ## 使い方
 
